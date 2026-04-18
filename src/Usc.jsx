@@ -1,7 +1,7 @@
 function Usc ({username, children}) {
     return(
         <>
-            <h2>Hi {username}</h2>
+            <h2>Hi There!</h2>
             <div>{children}</div>
         </>
     )
